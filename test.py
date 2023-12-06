@@ -1,1 +1,1 @@
-print("hello chnages ")
+print("hello changes")
